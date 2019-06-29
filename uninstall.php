@@ -6,7 +6,12 @@
  *
  * @package WooCommerce\Uninstaller
  * @version 2.3.0
+ *
+ * AD
+ * 
  */
+
+
 
 defined( 'WP_UNINSTALL_PLUGIN' ) || exit;
 
